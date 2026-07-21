@@ -13,7 +13,7 @@ function App() {
       <div className="flex flex-col ">
         <Outlet />
       </div>
-      <section
+      {/* <section
         className="
 max-w-7xl
 mx-auto
@@ -25,8 +25,8 @@ gap-8
 "
       >
         <NoticeBoard />
-        <Principal />
-      </section>
+        <Principal /> */}
+      {/* </section> */}
       <Footer />
     </>
   );
