@@ -9,7 +9,7 @@ export default function Header() {
       <div className="bg-primary text-primary-content">
         <div className="max-w-7xl mx-auto px-5 py-2 flex justify-between text-sm">
           <div className="hidden md:flex gap-6">
-            <span>☎ +977 9746499870</span>
+            <span>☎ 086-440132</span>
             <span>✉balkalyanmss@gmail.com</span>
           </div>
 

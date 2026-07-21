@@ -26,7 +26,11 @@ const Footer = () => {
           </p>
 
           <div className="flex gap-3 mt-5">
-            <a className="btn btn-circle btn-primary btn-sm">
+            <a
+              href="https://www.facebook.com/profile.php?id=100057382302319"
+              target="_blank"
+              className="btn btn-circle btn-primary btn-sm"
+            >
               <FaFacebookF />
             </a>
 
@@ -106,12 +110,12 @@ const Footer = () => {
 
             <p className="flex gap-3 items-center">
               <FaPhoneAlt className="text-primary" />
-              +977-98XXXXXXXX
+              086-440132
             </p>
 
             <p className="flex gap-3 items-center">
               <FaEnvelope className="text-primary" />
-              info@balkalyanschool.edu.np
+              balkalyanmss@gmail.com
             </p>
           </div>
         </div>
